@@ -534,9 +534,9 @@ Return any number of target nontoken creatures and/or assets you control to your
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 4 Logic
+      <text>Cost = 2 Skill
 Reactive (May be played or activated anytime you have priority.)
-Put target card stack object into its owner’s discard pile.</text>
+Put target creature card stack object into its owner’s discard pile.</text>
     </card>
     <card>
       <name>Negate</name>
@@ -554,55 +554,9 @@ Put target card stack object into its owner’s discard pile.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Logic
+      <text>Cost = 1 Providence
 Reactive (May be played or activated anytime you have priority.)
 Delete target activated or triggered stack object.</text>
-    </card>
-    <card>
-      <name>Mystic Refusal</name>
-      <set rarity="common">AKA</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Tactic</type>
-        <maintype>Tactic</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Cost = 5 Logic
-Alt Cost = Void another card with Logic in its cost from your hand.
-Reactive (May be played or activated anytime you have priority.)
-You can’t play Mystic Refusal during your turn.
-Put target card stack object into its owner’s discard pile.
-Mystic Refusal deals 3 damage to you.</text>
-    </card>
-    <card>
-      <name>Mystic Negation</name>
-      <set rarity="common">AKA</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Tactic</type>
-        <maintype>Tactic</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Cost = 2 Logic
-Alt Cost = Void another card with Logic in its cost from your hand or two cards with Logic in their cost from your discard pile.
-Reactive (May be played or activated anytime you have priority.)
-Delete target activated or triggered stack object.
-Mystic Negation deals 1 damage to you.
-Pay 1 Logic, discard Mystic Negation: Draw a card.</text>
     </card>
     <card>
       <name>Swine Hag</name>
@@ -779,7 +733,7 @@ Draw two cards, then discard two cards.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Cost = 1 Providence
-Cursed Flames deals 1 damage to target creature or asset.</text>
+Cursed Flames deals 1 damage to target permanent.</text>
     </card>
     <card>
       <name>Baneful Flames</name>
@@ -1071,6 +1025,168 @@ Cards with printed tempo lose tempo and cards without printed tempo gain tempo. 
 Durability = 3
 Erode (Replace damage to this with putting that many -1 durability counters on this.)
 If you would take any amount of damage, you may have that damage be redirected to Lightning Rod.</text>
+    </card>
+    <card>
+      <name>Temporal Dilation</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Providence
+Reactive (May be played or activated anytime you have priority.)
+Take an extra turn after this one.
+Void Temporal Dilation.</text>
+    </card>
+    <card>
+      <name>Outthink</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Logic
+Reactive (May be played or activated anytime you have priority.)
+Put target tactic card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Mistake</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Providence
+Reactive (May be played or activated anytime you have priority.)
+Put target asset card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Reflexive Flames</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Providence
+Reactive (May be played or activated anytime you have priority.)
+Reflexive Flames deals X damage to target permanent or player, where X is 2 plus the number of other stack objects.</text>
+    </card>
+    <card>
+      <name>Refocus</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Logic
+Reactive (May be played or activated anytime you have priority.)
+Void target card stack object you control. You may play it without paying its costs.</text>
+    </card>
+    <card>
+      <name>Repurpose Thoughts</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Logic
+Reactive (May be played or activated anytime you have priority.)
+Change the targets of target card, activated ability, or triggered ability stack object.</text>
+    </card>
+    <card>
+      <name>Veil of Luck</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Reactive (May be played or activated anytime you have priority.)
+Target card stack object gains “This card can’t leave the stack unless it is resolving.”
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Tax</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Logic
+Reactive (May be played or activated anytime you have priority.)
+Put target card stack object into its owner’s discard pile unless its controller pays 1 Skill and/or Providence and/or Logic.</text>
     </card>
 
     <!-->Tokens</-->
