@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>AKA</name>
+      <longname>Ars Kairdia alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Red Duelist Gauntlet</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with a cost that includes Providence can attack.</text>
+    </card>
+    <card>
+      <name>Lone Eternal</name>
+      <set rarity="rare">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 0
+Durability = 1
+Strength = 0
+Dexterity = 0
+Thought = 0
+If your starting mainboard contained 1 card, Lone Eternal gets +4 durability, +5 strength, +5 dexterity, and +5 thought.
+Lone Eternal can attack.</text>
+    </card>
+    <card>
+      <name>Amulet of Skill</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your beginning phase, put a tick counter on Amulet of Skill.
+At the start of your main phase, you gain amulet points equal to the number of tick counters on Amulet of Skill.
+You may pay for 1 Skill with 2 amulet points.</text>
+    </card>
+    <card>
+      <name>Stone of Card Pitching</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your beginning phase, put a tick counter on Stone of Card Pitching.
+Discarding a card pays for an amount of Skill or Providence equal to the amount of tick counters on Stone of Card Pitching.</text>
+    </card>
+    <card>
+      <name>Pendant of the Mind</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your beginning phase, draw a card, then put a card from your hand on the bottom of your deck.</text>
+    </card>
+    <card>
+      <name>Amulet of Providence</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your beginning phase, put a tick counter on Amulet of Providence.
+At the start of your main phase, you gain amulet points equal to the number of tick counters on Amulet of Providence.
+You may pay for 1 Providence with 2 amulet points.</text>
+    </card>
+    <card>
+      <name>Amulet of Logic</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your beginning phase, put a tick counter on Amulet of Logic.
+At the start of your main phase, you gain amulet points equal to the number of tick counters on Amulet of Logic.
+You may pay for 1 Logic with 2 amulet points.</text>
+    </card>
+    <card>
+      <name>Research</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Logic
+Reactive (May be played or activated anytime you have priority.)
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Capybara</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Capybara </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Providence
+Doom Cost = 0 (You may play a card from your discard pile for its doom cost if you’ve discarded it this turn.)
+Durability = 1
+Strength = 1
+Dexterity = 1
+Thought = 1
+Reactive (May be played or activated anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>Prism of Repetition</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Any
+Durability = 1
+Tap this: You gain 1 of any normal resource you already have.</text>
+    </card>
+    <card>
+      <name>Kairdite Imprint</name>
+      <set rarity="rare">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Any
+Durability = 6
+When Kairdite Imprint enters a play zone, you may void it. If you do, create a card in your hand that’s a copy of a card in your play zone.</text>
+    </card>
+    <card>
+      <name>Profession</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Durability = 1
+Tempo (You may only play one card with tempo per turn.)
+You may tap this to pay for 1 Skill.
+A deck may contain any number of cards named Profession.</text>
+    </card>
+    <card>
+      <name>Inheritance</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Durability = 1
+Tempo (You may only play one card with tempo per turn.)
+You may tap this to pay for 1 Providence.
+A deck may contain any number of cards named Inheritance.</text>
+    </card>
+    <card>
+      <name>Reputation</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Durability = 1
+Tempo (You may only play one card with tempo per turn.)
+You may tap this to pay for 1 Logic.
+A deck may contain any number of cards named Reputation.</text>
+    </card>
+    <card>
+      <name>Careful Capybara</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Capybara </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Providence
+Doom Cost = 1 Providence (You may play a card from your discard pile for its doom cost if you’ve discarded it this turn.)
+Durability = 1
+Strength = 1
+Dexterity = 1
+Thought = 2
+Reactive (May be played or activated anytime you have priority.)
+When Careful Capybara enters a play zone, draw a card.</text>
+    </card>
+    <card>
+      <name>Swift Capybara</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Capybara </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Providence
+Doom Cost = 1 Providence (You may play a card from your discard pile for its doom cost if you’ve discarded it this turn.)
+Durability = 1
+Strength = 1
+Dexterity = 2
+Thought = 1
+Reactive (May be played or activated anytime you have priority.)
+Swift Capybara is unaffected by slowness.</text>
+    </card>
+    <card>
+      <name>Mighty Capybara</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Capybara </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Providence
+Doom Cost = 1 Providence (You may play a card from your discard pile for its doom cost if you’ve discarded it this turn.)
+Durability = 1
+Strength = 5
+Dexterity = 1
+Thought = 1
+Reactive (May be played or activated anytime you have priority.)
+When Mighty Capybara perishes, discard a card.</text>
+    </card>
+    <card>
+      <name>Doomed Loans</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Durability = 4
+Tempo (You may only play one card with tempo per turn.)
+Tap this: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Controlled Flame Attack</name>
+      <set rarity="uncommon">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Tempo (You may only play one card with tempo per turn.)
+Controlled Flame Attack deals 2 damage to target creature or asset.</text>
+    </card>
+    <card>
+      <name>Capybara Tamer</name>
+      <set rarity="uncommon">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 5 Providence
+Durability = 2
+Strength = 2
+Dexterity = 2
+Thought = 2
+Capybaras you control get +1 durability, +1 strength, +1 dexterity, and +1 thought.</text>
+    </card>
+    <card>
+      <name>Blue Duelist Gauntlet</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with a cost that includes Logic can attack.</text>
+    </card>
+    <card>
+      <name>Yellow Duelist Gauntlet</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with a cost that includes Skill can attack.</text>
+    </card>
+    <card>
+      <name>Grey Duelist Gauntlet</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with a cost that includes none of Skill, Providence, and Logic can attack.</text>
+    </card>
+    <card>
+      <name>Reprocess</name>
+      <set rarity="rare">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Logic
+Reactive (May be played or activated anytime you have priority.)
+Return any number of target nontoken creatures and/or assets you control to your hand. Repeat the following choice for each card returned to your hand this way —
+• Draw a card, then discard a card.
+• Create a Vision token.</text>
+    </card>
+    <card>
+      <name>Refuse</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Skill
+Reactive (May be played or activated anytime you have priority.)
+Put target creature card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Negate</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Reactive (May be played or activated anytime you have priority.)
+Delete target activated or triggered stack object.</text>
+    </card>
+    <card>
+      <name>Swine Hag</name>
+      <set rarity="uncommon">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 4 Logic
+Durability = 3
+Strength = 1
+Dexterity = 2
+Thought = 4
+Tap this: Put a Pig counter on target creature an opponent controls. (It’s a Pig as long as it has that counter.)
+Pigs you don’t control get -1 durability, +1 strength, -2 dexterity, and -2 thought.</text>
+    </card>
+    <card>
+      <name>Bartered Boar</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Pig </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Logic
+Durability = 2
+Strength = 2
+Dexterity = 1
+Thought = 1
+When Bartered Boar enters a play zone, if it didn’t enter from another play zone, you may draw two cards. If you do, put it into target opponent’s play zone.</text>
+    </card>
+    <card>
+      <name>Raven</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Skill and/or Providence, 1 Logic
+Durability = 3
+Strength = 1
+Dexterity = 1
+Thought = 3
+Aerial (Creatures with Aerial can’t be blocked by creatures without Aerial or Range.)</text>
+    </card>
+    <card>
+      <name>Crow</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Skill and/or Logic, 1 Providence
+Durability = 3
+Strength = 1
+Dexterity = 3
+Thought = 1
+Aerial (Creatures with Aerial can’t be blocked by creatures without Aerial or Range.)</text>
+    </card>
+    <card>
+      <name>Vulture</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Providence and/or Logic, 1 Skill
+Durability = 3
+Strength = 3
+Dexterity = 1
+Thought = 1
+Aerial (Creatures with Aerial can’t be blocked by creatures without Aerial or Range.)</text>
+    </card>
+    <card>
+      <name>Looping Hourglass</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of your beginning phase, if there are no cards in your deck, shuffle your discard pile into your deck.</text>
+    </card>
+    <card>
+      <name>Impulsive Decision</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Draw two cards, then discard two cards.</text>
+    </card>
+    <card>
+      <name>Cursed Flames</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Cursed Flames deals 1 damage to target permanent.</text>
+    </card>
+    <card>
+      <name>Baneful Flames</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Providence
+Reactive (May be played or activated anytime you have priority.)
+Baneful Flames deals 2 damage to target creature or asset.</text>
+    </card>
+    <card>
+      <name>Pyre</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Pyre deals 2 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Unholy Flames</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Providence
+Unholy Flames deals 4 damage to target creature or asset.</text>
+    </card>
+    <card>
+      <name>Sudden Strength</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Skill
+Reactive (May be played or activated anytime you have priority.)
+Put a +1/+1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Sudden Endurance</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Skill
+Reactive (May be played or activated anytime you have priority.)
+Put a +1 durability counter on target creature or asset.</text>
+    </card>
+    <card>
+      <name>Bleakfeather Trinity Imprint</name>
+      <set rarity="rare">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Skill, 2 Providence, 2 Logic
+Durability = 3
+Strength = 3
+Dexterity = 3
+Thought = 3
+Aerial (Creatures with Aerial can’t be blocked by creatures without Aerial or Range.)
+Whenever a Bird you control deals damage to a shield, draw a card.</text>
+    </card>
+    <card>
+      <name>Strength of Command</name>
+      <set rarity="rare">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 9 Skill
+Put each creature card in your discard pile into your play zone.</text>
+    </card>
+    <card>
+      <name>Reflex Mirror</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards in your hand without tempo have reactive. (You may only play one card with tempo per turn. May be played or activated anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>Archer</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Any
+Durability = 2
+Strength = 1
+Dexterity = 2
+Thought = 1
+Range (Creatures with Range can block creatures with Aerial or Underground and don’t grant stats to creatures with Aquatic.)</text>
+    </card>
+    <card>
+      <name>Minnow</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 0
+Durability = 1
+Strength = 0
+Dexterity = 0
+Thought = 0
+Aquatic (Creatures with Aquatic get +2 strength, +2 dexterity, and +2 thought while blocking or being blocked by a creature without Aquatic or Range.)</text>
+    </card>
+    <card>
+      <name>Spark</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Spark deals 0 damage to target player.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Inverter of Time</name>
+      <set rarity="rare">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 7 Skill
+Durability = 5
+Strength = 5
+Dexterity = 5
+Thought = 5
+Cards with printed tempo lose tempo and cards without printed tempo gain tempo. (You may only play one card with tempo per turn.)</text>
+    </card>
+    <card>
+      <name>Confusing Lockbox</name>
+      <set rarity="mythic">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Relic</type>
+        <maintype>Relic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent plays their first card of the game, put that stack object into its owner’s discard pile unless that player pays 1 Skill and/or Providence and/or Logic.</text>
+    </card>
+    <card>
+      <name>Lightning Rod</name>
+      <set rarity="uncommon">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Any
+Durability = 3
+Erode (Replace damage to this with putting that many -1 durability counters on this.)
+If you would take any amount of damage, you may have that damage be redirected to Lightning Rod.</text>
+    </card>
+    <card>
+      <name>Temporal Dilation</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Providence
+Reactive (May be played or activated anytime you have priority.)
+Take an extra turn after this one.
+Void Temporal Dilation.</text>
+    </card>
+    <card>
+      <name>Outthink</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Logic
+Reactive (May be played or activated anytime you have priority.)
+Put target tactic card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Mistake</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Providence
+Reactive (May be played or activated anytime you have priority.)
+Put target asset card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Reflexive Flames</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Providence
+Reactive (May be played or activated anytime you have priority.)
+Reflexive Flames deals X damage to target permanent or player, where X is 2 plus the number of other stack objects.</text>
+    </card>
+    <card>
+      <name>Refocus</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Logic
+Reactive (May be played or activated anytime you have priority.)
+Void target card stack object you control. You may play it without paying its costs.</text>
+    </card>
+    <card>
+      <name>Repurpose Thoughts</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Logic
+Reactive (May be played or activated anytime you have priority.)
+Change the targets of target card, activated ability, or triggered ability stack object.</text>
+    </card>
+    <card>
+      <name>Veil of Luck</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Providence
+Reactive (May be played or activated anytime you have priority.)
+Target card stack object gains “This card can’t leave the stack unless it is resolving.”
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Tax</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Logic
+Reactive (May be played or activated anytime you have priority.)
+Put target card stack object into its owner’s discard pile unless its controller pays 1 Any.</text>
+    </card>
+    <card>
+      <name>Prophecy</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Providence
+Reactive (May be played or activated anytime you have priority.)
+Store the top two cards of your deck.</text>
+    </card>
+    <card>
+      <name>Cancel</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Skill, 1 Providence, 1 Logic
+Reactive (May be played or activated anytime you have priority.)
+Put target card stack object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Hawk</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Any
+Durability = 2
+Strength = 1
+Dexterity = 1
+Thought = 1
+Aerial (Creatures with Aerial can’t be blocked by creatures without Aerial or Range.)</text>
+    </card>
+    <card>
+      <name>Eagle</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Any
+Durability = 2
+Strength = 2
+Dexterity = 2
+Thought = 2
+Aerial (Creatures with Aerial can’t be blocked by creatures without Aerial or Range.)</text>
+    </card>
+    <card>
+      <name>Wurm</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Any
+Durability = 2
+Strength = 4
+Dexterity = 2
+Thought = 2
+Underground (Creatures with Underground can’t be blocked alone by creatures without Range.)</text>
+    </card>
+    <card>
+      <name>Mole</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Any
+Durability = 1
+Strength = 2
+Dexterity = 2
+Thought = 2
+Underground (Creatures with Underground can’t be blocked alone by creatures without Range.)</text>
+    </card>
+    <card>
+      <name>Bass</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Any
+Durability = 2
+Strength = 2
+Dexterity = 2
+Thought = 2
+Aquatic (Creatures with Aquatic get +2 strength, +2 dexterity, and +2 thought while blocking or being blocked by a creature without Aquatic or Range.)</text>
+    </card>
+    <card>
+      <name>Pufferfish</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Skill
+Durability = 2
+Strength = 1
+Dexterity = 1
+Thought = 1
+Aquatic (Creatures with Aquatic get +2 strength, +2 dexterity, and +2 thought while blocking or being blocked by a creature without Aquatic or Range.)
+Whenever a creature deals damage to Pufferfish, Pufferfish deals that much damage to that creature.</text>
+    </card>
+    <card>
+      <name>Angler Fish</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Providence
+Durability = 2
+Strength = 1
+Dexterity = 1
+Thought = 1
+Aquatic (Creatures with Aquatic get +2 strength, +2 dexterity, and +2 thought while blocking or being blocked by a creature without Aquatic or Range.)
+When Angler Fish attacks, target creature must block it this turn if able.</text>
+    </card>
+    <card>
+      <name>Sea Turtle</name>
+      <set rarity="common">AKA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Logic
+Durability = 4
+Strength = 0
+Dexterity = 0
+Thought = 0
+Erode (Replace damage to this with putting that many -1 durability counters on this.)
+Aquatic (Creatures with Aquatic get +2 strength, +2 dexterity, and +2 thought while blocking or being blocked by a creature without Aquatic or Range.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Vision [Token] AKA</name>
+      <set>AKA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Asset</type>
+        <maintype>Asset</maintype>
+        <notes>!token
+!related Reprocess</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Durability = 1
+Pay 2 Any, destroy this token: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Reprocess</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
